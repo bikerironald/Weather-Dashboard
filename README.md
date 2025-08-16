@@ -17,7 +17,7 @@ This app allows users to search for any city and view real-time weather details 
 
 🛠️ Tech Stack
 
-React JS – Core frontend framework
+React JS – for frontend framework
 
 Tailwind CSS – Styling and responsive design
 
